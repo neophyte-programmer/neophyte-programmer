@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 My name is Nutifafa.
 
-<!--
-**neophyte-programmer/neophyte-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my previously learned skills
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on anything. The sky is the limit
+- 🤔 I’m looking for help with writing advanced code
+- 💬 Ask me about C++ or playing piano, lol
+- 📫 How to reach me: 0502297337 on whatsapp
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have certificates in C, C++, Information Security & Ethical Hacking and Microsoft Office Suite 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neophyte-programmer)](https://git.io/streak-stats)
