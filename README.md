@@ -1,4 +1,5 @@
-![](https://github.com/neophyte-programmer/banner.png)
+[![Header](https://raw.githubusercontent.com/neophyte-programmer/neophyte-programmer/banner.png)]
+
 ### Hi there 👋 My name is Nutifafa.
 
 - 🔭 I’m currently working on improving my previously learned skills
@@ -10,6 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have certificates in C, C++, Information Security & Ethical Hacking and Microsoft Office Suite 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dark&hide_border=true)](https://git.io/streak-stats) ![](https://github-readme-stats.vercel.app/api?username=neophyte-programmer&theme=radical) 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte-programmer&theme=dark&layout=compact"/>
 
