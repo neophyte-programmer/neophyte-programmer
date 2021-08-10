@@ -11,4 +11,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img align="right" alt="Coding" width="400" src="add your link here">
+
