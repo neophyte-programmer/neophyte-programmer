@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/neophyte-programmer/neophyte-programmer/banner.png)]
+# ![](https://github.com/neophyte-programmer/neophyte-programmer/blob/main/banner.png?raw=true)
 
 ### Hi there 👋 My name is Nutifafa.
 
