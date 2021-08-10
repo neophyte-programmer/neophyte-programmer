@@ -1,3 +1,4 @@
+![](https://github.com/neophyte-programmer/banner.png)
 ### Hi there 👋 My name is Nutifafa.
 
 - 🔭 I’m currently working on improving my previously learned skills
