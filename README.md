@@ -13,8 +13,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte-programmer&theme=dark&layout=compact"/>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neophyte-programmer&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neophyte-programmer&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neophyte-programmer&theme=solarized_dark)
