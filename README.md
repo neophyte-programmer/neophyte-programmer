@@ -2,8 +2,8 @@
 
 ### Hi there 👋 My name is Nutifafa.
 
-- 🔭 I’m currently working on a few mini javascript projects
-- 🌱 I’m currently learning JavaScript, Software Development and the likes
+- 🔭 I’m currently working on a few software projects including a Hospital Management System Project
+- 🌱 I’m currently learning JavaScript and Software Development
 - 👯 I’m looking to collaborate on anything. The sky is the limit
 - 🤔 I’m looking for help with writing advanced code
 - 💬 Ask me about C++,HTML, CSS or playing piano, lol
