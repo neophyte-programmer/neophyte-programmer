@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have certificates in C, C++, Information Security & Ethical Hacking and Microsoft Office Suite 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neophyte-programmer&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neophyte-programmer&theme=solarized_dark)
