@@ -19,6 +19,9 @@
 <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>&nbsp;&nbsp;
 
 
 ### I am learning: <br>
