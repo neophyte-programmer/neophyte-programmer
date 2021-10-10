@@ -59,7 +59,7 @@
 </a>
 
 <a href="/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte-programmer&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte-programmer&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
 </a>
 
 
