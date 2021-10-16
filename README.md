@@ -34,6 +34,10 @@
 <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>&nbsp;&nbsp;
+
 
 
 ## <p align= "center"> Contact Me </p>
