@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=Hi+there+%F0%9F%91%8B+My+name+is+Nutifafa.+;Welcome+to+my+Github+Page.)](https://git.io/typing-svg)
 
-## <p align= "center"> Languages </p>
+## <p align= "center"> Languages and Resources</p>
 ### I know : <br>
 <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,6 +38,28 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+### My Workspace <br>
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+</a>&nbsp;&nbsp;
 
 
 ## <p align= "center"> Contact Me </p>
@@ -56,6 +78,14 @@
   </a>&nbsp;&nbsp;
 </p>
 <br>
+
+## <p align= "center"> Music</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3lz79cmnz0wkfc191zqtsaayj&cover_image=true&theme=default&bar_color=2137e4)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
 
 ## <p align= "center"> Statistics </p>
 <a href="/">
