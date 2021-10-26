@@ -2,6 +2,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=Hi+there+%F0%9F%91%8B+My+name+is+Nutifafa.+;Welcome+to+my+Github+Page.)](https://git.io/typing-svg)
 
+## <p align= "center"> Check out my website [here](nutifafasportfolio.netlify.app)</p>
+
+
 ## <p align= "center"> Languages and Resources</p>
 ### I know : <br>
 <a href="https://github.com/neophyte-programmer">
