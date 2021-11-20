@@ -22,9 +22,7 @@
 <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/neophyte-programmer">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</a>&nbsp;&nbsp;
+
 
 
 ### I am learning: <br>
@@ -47,10 +45,10 @@
 
 ### My Workspace <br>
 <a href="https://github.com/neophyte-programmer">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/neophyte-programmer">
-    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/neophyte-programmer">
