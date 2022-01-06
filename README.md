@@ -76,7 +76,7 @@
 </p>
 <br>
 
-## <p align= "center"> Music</p>
+## <p align= "center"> What I listen to</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3lz79cmnz0wkfc191zqtsaayj&cover_image=true&theme=default&bar_color=2137e4)](https://github.com/kittinan/spotify-github-profile)
     
