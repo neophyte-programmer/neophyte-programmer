@@ -5,7 +5,7 @@
 ## Visit my portfolio [here](https://nutifafasportfolio.netlify.app) 
 
 
-## <p align= "center"> Languages and Resources</p>
+## <p align= "center"> Languages and Workspaces</p>
 ### I know : <br>
 <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
