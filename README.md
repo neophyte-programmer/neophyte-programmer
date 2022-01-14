@@ -1,9 +1,11 @@
 # ![](https://github.com/neophyte-programmer/neophyte-programmer/blob/main/banner.png?raw=true)
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=Hi+there+%F0%9F%91%8B+My+name+is+Nutifafa.+;Welcome+to+my+Github+Page.)](https://git.io/typing-svg)
-
+<!--
+![Metrics](https://metrics.lecoq.io/neophyte-programmer?template=classic&introduction=1&introduction.title=true&config.timezone=Europe%2FLondon)
+-->
+<!--## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sans&color=FFFFFF&lines=Hi+there+%F0%9F%91%8B+My+name+is+Nutifafa.+;Welcome+to+my+Github+Page.)](https://git.io/typing-svg) -->
+<!--
 ## Visit my portfolio [here](https://nutifafasportfolio.netlify.app) 
-
+-->
 
 ## <p align= "center"> Languages and Workspaces</p>
 ### I know : <br>
