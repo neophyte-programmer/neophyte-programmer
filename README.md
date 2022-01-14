@@ -1,3 +1,6 @@
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=neophyte-programmer&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+
 # ![](https://github.com/neophyte-programmer/neophyte-programmer/blob/main/banner.png?raw=true)
 <!--
 ![Metrics](https://metrics.lecoq.io/neophyte-programmer?template=classic&introduction=1&introduction.title=true&config.timezone=Europe%2FLondon)
