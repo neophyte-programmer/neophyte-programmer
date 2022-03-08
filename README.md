@@ -105,7 +105,9 @@
 </a>
 </p>
 
-
+<p align = "center">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=neophyte-programmer&column=8&theme=midnightpurple&no-frame=false"/>
+</p>
 
 
 
