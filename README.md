@@ -101,6 +101,22 @@
 
 <p align= "center">
 <a href="/">
+  <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&theme=midnight-purple" />
+</a>
+</p>
+
+<p align= "center">
+ 
+    
+<a href="/">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neophyte-programmer&theme=github_dark" />
+</a>
+    
+ <a href="/">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neophyte-programmer&theme=github_dark" />
+</a>
+    
+  <a href="/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte-programmer&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
 </a>
 </p>
@@ -108,8 +124,6 @@
 <p align = "center">
     <img width=1000 src="https://github-profile-trophy.vercel.app/?username=neophyte-programmer&column=7&theme=gruvbox&no-frame=true"/>
 </p>
-
-
 
 
 
