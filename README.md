@@ -101,7 +101,7 @@
 
 <p align= "center">
 <a href="/">
-  <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&include_all_commits=true&theme=midnight-purple" />
 </a>
 </p>
 
