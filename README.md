@@ -4,7 +4,7 @@
 # ![](https://github.com/neophyte-programmer/neophyte-programmer/blob/main/banner.png?raw=true)
 
 <h1 align='center'>
-  Hi there 👋 I'm Nutifafa 👨‍💻
+  Hello there 👋 I'm Nutifafa 👨‍💻
 </h1>
 
 <p align='center'>
