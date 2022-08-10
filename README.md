@@ -90,7 +90,7 @@
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
-- 🏛️ **Frameworks and Libraries**
+- 🏛️ **Frameworks and Libraries** <br /> <br />
 
 
 <img align="right" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white" />
@@ -105,6 +105,8 @@
 
 - 🛠️ **Tools**
 
+
+## I am learning
 
 
 
