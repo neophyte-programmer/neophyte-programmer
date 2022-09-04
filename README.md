@@ -28,16 +28,10 @@
 
 <p align= "center">
 <a href="/">
-  <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&include_all_commits=true&theme=midnight-purple" width="42.5%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=midnight-purple&hide_border=true" width="42.5%" />
 </a>
 </p>
-
-<p align= "center">
-<a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=midnight-purple&hide_border=true" />
-</a>
-</p>
-
 
 
 ## Education
@@ -70,7 +64,10 @@
 - 👨‍💻 **Frontend Developer**\
 📆 Present\
 📍 **Freelance** - Accra, Ghana
-  
+
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neophyte-programmer&repo=instagram)](https://github.com/neophyte-programmer/instagram)
 
 ## Skills
 
