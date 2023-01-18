@@ -26,11 +26,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align= "center">
+<!-- <p align= "center">
 <a href="/">
   <img src="https://github-readme-stats.vercel.app/api?username=neophyte-programmer&show_icons=true&include_all_commits=true&theme=midnight-purple" />
 </a>
-</p>
+</p> -->
 
 <p align= "center">
 <a href="/">
@@ -62,102 +62,18 @@
 📆 Feb, 2022 - April, 2022\
 📍 **Intecom IT** - Accra, Ghana
   
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Firebase-343434?logo=firebase&logoColor=FFCA28" />
+<img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
-- 👨‍💻 **Frontend Developer**\
-📆 Present\
-📍 **Freelance** - Accra, Ghana
-  
-
-## Skills
-
-
-<h3 align='center'>
- 🔥 Languages <br>
-</h3>
-
-<p align= "center">
-
-
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img align="center" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-</p>
-
-
-
-<h3 align='center'>
- 🏛️ Frameworks and Libraries <br />
-</h3>
-
-<p align= "center">
-
-<img align="center" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Expo-1B1F23?logo=expo&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Firebase-343434?logo=firebase&logoColor=FFCA28" />
-<img align="center" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="center" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-
-</p>
-
-
-<h3 align='center'>
-  ✨ Design <br>
-</h3>
-
-
-<p align= "center">
-
-<img align="center" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=Adobe%20Lightroom&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-
-</p>
-
-
-
-<h3 align='center'>
-  🛠️ Tools <br>
-</h3>
-
-<p align= "center">
-<img align="center" src="https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white" />
-
-<img align="center" src="https://img.shields.io/badge/WordPress-0078D6?logo=wordpress&logoColor=white" />
-</p>
-
-
-
-
-
-
-## I am learning
-
-<p align= "center">
-  <img align="center" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-<p>
-
-
-
-
+- 👨‍💻 **Junior Frontend Developer**\
+📆 October, 2022 - Present\
+📍 **Detosphere** - Accra, Ghana
   
 
 
-  
 
-
-  
 
 
 
