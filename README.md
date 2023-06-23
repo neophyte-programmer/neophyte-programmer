@@ -8,7 +8,7 @@
 </h1>
 
 <p align='center'>
-  A frontend developer from Accra, Ghana.
+  A frontend developer from Accra, Ghana. Currently transitioning to a fullstack developer
 </p>
 
 <p align= "center">
