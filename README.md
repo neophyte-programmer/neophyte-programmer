@@ -39,17 +39,6 @@
 </p>
 
 
-
-## Education
-
-- 📖 **Software Development**\
-📆 Sept, 2021 - Nov, 2021\
-📍 **University of Ghana** - Legon, Ghana
-
-- 📖 **BSc. Information Technology**\
-📆 2021 - Present\
-📍 **University of Ghana** - Legon, Ghana
-
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/WordPress-0078D6?logo=wordpress&logoColor=white" />
@@ -68,9 +57,16 @@
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
 - 👨‍💻 **Junior Frontend Developer**\
-📆 October, 2022 - Present\
+📆 October, 2022 - June, 2023\
 📍 **Detosphere** - Accra, Ghana
-  
+
+
+<img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+
+- 👨‍💻 **Junior Software Engineer (Intern)**\
+📆 November, 2022 - Present\
+📍 **Polymorph Labs** - Accra, Ghana  
 
 
 
