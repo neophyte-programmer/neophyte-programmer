@@ -8,7 +8,7 @@
 </h1>
 
 <p align='center'>
-  A fullstack developer from Accra, Ghana.  <a href="https://nutifafa.live"> Visit my porfolio here</a>
+  A fullstack developer from Accra, Ghana.  <a href="https://nutifafa.vercel.app/"> Visit my porfolio here</a>
 </p>
 
 <p align= "center">
