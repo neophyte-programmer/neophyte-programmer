@@ -64,7 +64,7 @@
 <img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
-- 👨‍💻 **Junior Software Engineer **\
+- 👨‍💻 **Junior Software Engineer**\
 📆 November, 2023 - Present\
 📍 **Polymorph Labs** - Accra, Ghana  
 
