@@ -70,7 +70,7 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
 
 
-- 👨‍💻 **Junior Software Engineer (Aspiring Senior Software Engineer)**\
+- 👨‍💻 **Software Engineer**\
 📆 November, 2023 - Present\
 📍 **Polymorph Labs** - Accra, Ghana  
 
